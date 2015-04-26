@@ -1,0 +1,19 @@
+Assignment 3: Part 1
+
+Start: Sun, 19 April 2015 11:30:00 -0800
+End: Sun, 19 April 2015 15:34:00 -0800
+Tasks: I completed my first attempt at finishing variables.js, objects.js, and functions.js.
+
+Start: Sun, 19 April 2015 15:45:00 -0800
+End: Sun, 19 April 2015 21:14:00 -0800
+Tasks: During this period, I was mainly debugging, reading online resources, and working through the errors one-at-a-time. I am satisfied with the product I have currently.
+
+Assignment 3: Part 2
+
+Start: Fri, 24 April 2015 11:30:00 -0800
+End: Fri, 24 April 2015 12:30:00 -0800
+Tasks: I started the reading and video lectures.
+
+Start: Sat, 25 April 2015 14:20:00 -0800
+End: Sat, 25 April 2015 15:40:00 -0800
+Tasks: I completed all the readings and video lectures while thinking about the information I need for the assignment.
