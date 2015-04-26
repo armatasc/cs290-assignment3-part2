@@ -17,3 +17,8 @@ Tasks: I started the reading and video lectures.
 Start: Sat, 25 April 2015 14:20:00 -0800
 End: Sat, 25 April 2015 15:40:00 -0800
 Tasks: I completed all the readings and video lectures while thinking about the information I need for the assignment.
+
+Start: Sat, 25 April 2015 18:00:00 -0800
+End: Sat, 25 April 2015 19:00:00 -0800
+Tasks: During this hour, I started coding for the HTML, JS, and CSS and linked the 3 files together.
+
