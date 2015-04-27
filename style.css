@@ -1,0 +1,30 @@
+ body {
+	background-color: lightgreen;
+ }
+h2 , h4 {
+	font-family: verdana;
+ }
+ ul {
+	list-style-type: circle;
+ }
+ ul > li > dl > dt {
+	font-weight: bold;
+	font-size: 12;
+ }
+ ul > li > dl  {
+	font-size: 12;
+ }
+ #gists {
+	font-family: verdana;
+	float: left;
+	background-color: lightblue;
+	margin: 10px;
+	width: 45%;
+ }
+ #favored-gists {
+	font-family: verdana;
+	float: left;
+	background-color: lightblue;
+	margin: 10px;
+	width: 45%;
+ }
