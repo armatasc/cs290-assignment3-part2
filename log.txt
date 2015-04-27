@@ -26,3 +26,6 @@ Start: Sun, 26 April 2015 11:20:00 -0800
 End: Sun, 26 April 2015 14:40:00 -0800
 Tasks: I coded the majority of my css, html, and js files. I still need to test my functions.
 
+Start: Sun, 26 April 2015 15:00:00 -0800
+End: Sun, 26 April 2015 22:30 -0800
+Tasks: I completed most of the coding and most of the requirements, but ran into a wall when adding/removing Gists to and from localStorage.
